@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-ollama
+requests
+tavily-python
+python-dotenv
+streamlit
